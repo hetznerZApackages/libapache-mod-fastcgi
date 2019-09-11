@@ -1,5 +1,5 @@
 Source: libapache-mod-fastcgi
-Section: non-free/web
+Section: web
 Priority: optional
 Maintainer: Tatsuki Sugiura <sugi@nemui.org>
 Standards-Version: 3.9.1
@@ -8,7 +8,7 @@ Uploaders: Taku YASUI <tach@debian.or.jp>
 Homepage: http://www.fastcgi.com/
 
 Package: libapache2-mod-fastcgi
-Architecture: any
+Architecture: amd64
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: Apache 2 FastCGI module for long-running CGI scripts
  This is a FastCGI module for the Apache 2.x web server.  FastCGI is an
