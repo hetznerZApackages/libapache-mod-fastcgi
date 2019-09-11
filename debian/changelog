@@ -1,8 +1,14 @@
+libapache-mod-fastcgi (2.4.7+deb9u1+deb9hetz1~exp1) stretch-hetz-experimental; urgency=medium
+
+  * adjusting the name
+
+ -- Geoff Robertson <gr@hetzner.co.za>  Wed, 11 Sep 2019 10:16:46 +0200
+
 libapache-mod-fastcgi (2.4.7~0910052141-1.2+deb9hetz3) stretch-hetz; urgency=medium
 
   * Released 2.4.7~0910052141-1.2+deb9hetz3~exp1 as 2.4.7~0910052141-1.2+deb9hetz3
 
- -- Geoff Robertson <gr@hetzner.co.za>  Wed, 11 Sep 2019 12:23:17 +0200
+ -- Geoff Robertson <gr@hetzner.co.za>  Wed, 11 Sep 2019 13:35:36 +0200
 
 libapache-mod-fastcgi (2.4.7~0910052141-1.2+deb9hetz3~exp1) stretch-hetz-experimental; urgency=medium
 
