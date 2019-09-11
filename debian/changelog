@@ -1,3 +1,9 @@
+libapache-mod-fastcgi (2.4.7~0910052141-1.2+deb9hetz1~exp1) stretch-hetz-experimental; urgency=medium
+
+  * Pulling updated for the below adaptions 
+
+ -- Geoff Robertson <gr@hetzner.co.za>  Wed, 11 Sep 2019 10:16:46 +0200
+
 libapache-mod-fastcgi (2.4.7~0910052141-1.2) unstable; urgency=medium
 
   * Non-maintainer upload.
